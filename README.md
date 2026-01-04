@@ -25,7 +25,4 @@ Buduję swoją ścieżkę w świecie sztucznej inteligencji i nowoczesnego progr
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_USERNAME&show_icons=true&theme=tokyonight" alt="Statystyki GitHub" />
-</p>
 
