@@ -14,7 +14,7 @@ Buduję swoją ścieżkę w świecie sztucznej inteligencji i nowoczesnego progr
 * 💻 **Coding** (Advanced patterns)
 
 ### 🤝 Współpraca
-* 👯 Szukam możliwości kolaboracji przy projektach **Open Source LLM**. Jeśli masz ciekawy pomysł – daj znać!
+* 👯 Szukam możliwości współpracy przy projektach **Open Source LLM**. Jeśli masz ciekawy pomysł – daj znać!
 
 ### 📬 Kontakt
 * 📫 Napisz do mnie: [lukas.aistudia@gmail.com](mailto:lukas.aistudia@gmail.com)
