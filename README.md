@@ -1,16 +1,31 @@
-## Hi there 👋
+# Cześć! 👋 Jestem Łukasz
 
-<!--
-**cewa-stack/cewa-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://cewastack.pl" target="_blank">
+  <img src="https://img.shields.io/badge/WWW-cewastack.pl-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Moja Strona">
+</a>
 
-Here are some ideas to get you started:
+### 🚀 O mnie
+Buduję swoją ścieżkę w świecie sztucznej inteligencji i nowoczesnego programowania.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Moje obecne cele (Learning)
+* 🌱 **LLM** (Large Language Models)
+* 🧠 **Deep Learning**
+* 🤖 **AI Development**
+* 💻 **Coding** (Advanced patterns)
+
+### 🤝 Współpraca
+* 👯 Szukam możliwości kolaboracji przy projektach **Open Source LLM**. Jeśli masz ciekawy pomysł – daj znać!
+
+### 📬 Kontakt
+* 📫 Napisz do mnie: [lukas.aistudia@gmail.com](mailto:lukas.aistudia@gmail.com)
+* 🌐 Moja strona: [cewastack.pl](https://cewastack.pl)
+
+### ⚡ Fun fact
+* Większość modeli AI potrafi już zdać egzamin adwokacki, ale wciąż mają problem z poprawnym policzeniem, ile liter „r” znajduje się w słowie „strawberry”! 🍓
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TWÓJ_USERNAME&show_icons=true&theme=tokyonight" alt="Statystyki GitHub" />
+</p>
+
