@@ -19,6 +19,8 @@ Buduję swoją ścieżkę w świecie sztucznej inteligencji i nowoczesnego progr
 ### 📬 Kontakt
 * 📫 Napisz do mnie: [lukas.aistudia@gmail.com](mailto:lukas.aistudia@gmail.com)
 * 🌐 Moja strona: [cewastack.pl](https://cewastack.pl)
+* 🧠 Hugging Face: [huggingface.co/cewastack](https://huggingface.co/cewastack)
+* 🏆 Kaggle : [kaggle.com/cewastack](https://www.kaggle.com/cewastack)
 
 ### ⚡ Fun fact
 * Większość modeli AI potrafi już zdać egzamin adwokacki, ale wciąż mają problem z poprawnym policzeniem, ile liter „r” znajduje się w słowie „strawberry”! 🍓
