@@ -1,11 +1,12 @@
-# Hi there, I'm Łukasz! 👋
+# Hi there, I'm Lukas! 👋
 
 I’m an Junior AI Engineer and Programmer on a mission to build smarter, more intuitive systems. Currently, I'm deep-diving into the world of Large Language Models and modern software architecture.
 
-###  What I'm currently focused on:
-* **LLMs & Deep Learning:** Fine-tuning, prompt engineering, and exploring the latest transformer architectures.
-* **AI Development:** Building end-to-end applications that bridge the gap between raw models and user-ready tools.
-* **Advanced Coding:** Writing clean, scalable code and mastering design patterns that make AI integration seamless.
+###  Current Project:[AvIlle: RPG Simulation](https://github.com/cewa-stack/AvIlle-RPG-Life-Simulation-engine)
+I am currently developing a **Living AI Simulation** to study social behaviors and emergent reactions. It's kinda university project and my inter curiosity what will happend.
+* **The Goal:** Populating a virtual world with autonomous AI agents.
+* **The Tech:** Each agent is assigned a unique persona, memory, and personality traits, acting out human-like roles in dynamic environments. 
+* **The Focus:** Researching how LLM-based agents interact, make decisions, and evolve within a social structure.
 
 ###  Let's build something together!
 I am actively looking to contribute to **Open Source LLM projects**. If you have an idea that involves pushing the boundaries of what AI can do (or just a cool experiment), I’d love to hear from you!
