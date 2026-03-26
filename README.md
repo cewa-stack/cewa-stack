@@ -1,30 +1,21 @@
-# Cześć! 👋 Jestem Łukasz
+# Hi there, I'm Łukasz! 👋
 
-<a href="https://cewastack.pl" target="_blank">
-  <img src="https://img.shields.io/badge/WWW-cewastack.pl-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Moja Strona">
-</a>
+I’m an Junior AI Engineer and Programmer on a mission to build smarter, more intuitive systems. Currently, I'm deep-diving into the world of Large Language Models and modern software architecture.
 
-###  O mnie
-Buduję swoją ścieżkę w świecie sztucznej inteligencji i nowoczesnego programowania.
+###  What I'm currently focused on:
+* **LLMs & Deep Learning:** Fine-tuning, prompt engineering, and exploring the latest transformer architectures.
+* **AI Development:** Building end-to-end applications that bridge the gap between raw models and user-ready tools.
+* **Advanced Coding:** Writing clean, scalable code and mastering design patterns that make AI integration seamless.
 
-### Moje obecne cele (Learning)
-*  **LLM** (Large Language Models)
-*  **Deep Learning**
-*  **AI Development**
-*  **Coding** (Advanced patterns)
+###  Let's build something together!
+I am actively looking to contribute to **Open Source LLM projects**. If you have an idea that involves pushing the boundaries of what AI can do (or just a cool experiment), I’d love to hear from you!
 
-### 🤝 Współpraca
-*  Szukam możliwości współpracy przy projektach **Open Source LLM**. Jeśli masz ciekawy pomysł – daj znać!
-
-###  Kontakt
-* 📫 Napisz do mnie: [lukas.aistudia@gmail.com](mailto:lukas.aistudia@gmail.com)
-* 🌐 Moja strona: [cewastack.pl](https://cewastack.pl)
-* 🧠 Hugging Face: [huggingface.co/cewastack](https://huggingface.co/cewastack)
-* 🏆 Kaggle : [kaggle.com/cewastack](https://www.kaggle.com/cewastack)
-
-### Fun fact
-* Większość modeli AI potrafi już zdać egzamin adwokacki, ale wciąż mają problem z poprawnym policzeniem, ile liter „r” znajduje się w słowie „strawberry”! 🍓
+###  Where to find me:
+* **Portfolio:** [cewastack.pl](https://cewastack.pl)
+* **Hugging Face:** [@cewastack](https://huggingface.co/cewastack)
+* **Kaggle:** [cewastack](https://www.kaggle.com/cewastack)
+* **Email:** [lukas.aistudia@gmail.com](mailto:lukas.aistudia@gmail.com)
 
 ---
 
-
+** Fun Fact:** AI models can pass the Bar Exam, but they still get into heated arguments with me over how many "r"s are in the word *strawberry*. (Spoiler: it's 3, no matter what the tokens say!)
