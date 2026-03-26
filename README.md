@@ -2,7 +2,7 @@
 
 I’m an Junior AI Engineer and Programmer on a mission to build smarter, more intuitive systems. Currently, I'm deep-diving into the world of Large Language Models and modern software architecture.
 
-###  Current Project:[AvIlle: RPG Simulation](https://github.com/cewa-stack/AvIlle-RPG-Life-Simulation-engine)
+###  Current Project: [AvIlle: RPG Simulation](https://github.com/cewa-stack/AvIlle-RPG-Life-Simulation-engine)
 I am currently developing a **Living AI Simulation** to study social behaviors and emergent reactions. It's kinda university project and my inter curiosity what will happend.
 * **The Goal:** Populating a virtual world with autonomous AI agents.
 * **The Tech:** Each agent is assigned a unique persona, memory, and personality traits, acting out human-like roles in dynamic environments. 
