@@ -2,7 +2,7 @@
 
 I’m an Junior AI Engineer and Programmer on a mission to build smarter, more intuitive systems. Currently, I'm deep-diving into the world of Large Language Models and modern software architecture.
 
-###  Current Project: [Comersik](https://github.com/cewa-stack/Commersik - 24/7 monitoring bot for marketplaces orders)
+###  Current Project: [ordly](https://github.com/cewa-stack/ordly)
 I'm currently working on bot based on Raspberry Pi. It's monitoring your all marketplaces and send you all info on your telegram for now.
 I'm working on it so it can be really healpfully for people who sells on small and medium size on for example on allegro to get notification about orders fast and clearly
 
